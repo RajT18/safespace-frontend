@@ -20,7 +20,7 @@ export const sidebarLinks = [
     label: "Saved",
   },
   {
-    imgURL: "/assets/icons/gallery-add.svg",
+    imgURL: "https://pouch.jumpshare.com/preview/Hul4Qe91R2AGbgqzeUpiG4xDGwl3P2UNly2EKt7tHdFa4HeYAXHv-NyDGC6g7dHXaywGEoqS2sUr4wB9kUwT1p45vor4m_74rICQd39GQ_0",
     route: "/create-post",
     label: "Create Post",
   },
