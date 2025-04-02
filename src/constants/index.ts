@@ -20,15 +20,11 @@ export const sidebarLinks = [
     label: "Saved",
   },
   {
-    imgURL: "https://pouch.jumpshare.com/preview/Hul4Qe91R2AGbgqzeUpiG4xDGwl3P2UNly2EKt7tHdFa4HeYAXHv-NyDGC6g7dHXaywGEoqS2sUr4wB9kUwT1p45vor4m_74rICQd39GQ_0",
+    imgURL: "/assets/icons/gallery-add.svg",
     route: "/create-post",
     label: "Create Post",
   },
-  // {
-  //   imgURL: "/assets/icons/chat.svg",
-  //   route: "/chat",
-  //   label: "Chat",
-  // },
+  
 ];
 
 export const bottombarLinks = [
@@ -57,9 +53,5 @@ export const bottombarLinks = [
     route: "/create-post",
     label: "Create",
   },
-  // {
-  //   imgURL: "/assets/icons/chat.svg",
-  //   route: "/chat",
-  //   label: "Chat",
-  // },
+  
 ];
